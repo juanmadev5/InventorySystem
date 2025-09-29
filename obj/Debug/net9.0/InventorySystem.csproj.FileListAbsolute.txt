@@ -12,3 +12,4 @@ C:\Dev\InventorySystem\obj\Debug\net9.0\refint\InventorySystem.dll
 C:\Dev\InventorySystem\obj\Debug\net9.0\InventorySystem.pdb
 C:\Dev\InventorySystem\obj\Debug\net9.0\InventorySystem.genruntimeconfig.cache
 C:\Dev\InventorySystem\obj\Debug\net9.0\ref\InventorySystem.dll
+C:\Dev\InventorySystem\obj\Debug\net9.0\InventorySystem.sourcelink.json
